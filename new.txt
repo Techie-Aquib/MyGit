@@ -1,1 +1,2 @@
-I am going to start a new CV project that will help me understand the basics of Computer Vision. 
+I will start a new CV project to help me understand the basics of Computer Vision. 
+My first project will be on object detection. The aim is to detect only the objects of interest.
