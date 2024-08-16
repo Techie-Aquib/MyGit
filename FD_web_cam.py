@@ -9,7 +9,7 @@ import cv2
 import face_recognition
 
 # Initialize webcam
-video_capture = cv2.VideoCapture("dataser/video.mp4")
+video_capture = cv2.VideoCapture(0)
 
 r = 0
 while True:
