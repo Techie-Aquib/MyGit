@@ -1,3 +1,0 @@
-I will start a new CV project to help me understand the basics of Computer Vision. 
-My first project will be on object detection. The aim is to detect only the objects of interest.
-I am adding this line only in the permToEdit Branch // Merged successfully!
